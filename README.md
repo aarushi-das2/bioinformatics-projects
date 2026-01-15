@@ -9,6 +9,8 @@ Expt 4: https://colab.research.google.com/github/aarushi-das2/bioinformatics-pro
 
 Expt 5: https://colab.research.google.com/github/aarushi-das2/bioinformatics-projects/blob/main/1RV23BT004_Primer_Design_of_COX_1_Gene.ipynb
 
+Expt 6: https://colab.research.google.com/github/aarushi-das2/bioinformatics-projects/blob/main/1RV23BT004_Restriction_Mapping_for_Acidomyces_acidothermus_Isolate.ipynb
+
 Expt 7: https://colab.research.google.com/github/aarushi-das2/bioinformatics-projects/blob/main/1RV23BT004_Genome_Assembly_of_Sweet_Potato_Chloroplast_Genome.ipynb
 
 Expt 8: https://colab.research.google.com/github/aarushi-das2/bioinformatics-projects/blob/main/1RV23BT004_Phylogenetic_Analysis_of_Acidomyces_acidothermus_Isolates.ipynb
