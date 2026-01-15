@@ -14,3 +14,5 @@ Expt 6: https://colab.research.google.com/github/aarushi-das2/bioinformatics-pro
 Expt 7: https://colab.research.google.com/github/aarushi-das2/bioinformatics-projects/blob/main/1RV23BT004_Genome_Assembly_of_Sweet_Potato_Chloroplast_Genome.ipynb
 
 Expt 8: https://colab.research.google.com/github/aarushi-das2/bioinformatics-projects/blob/main/1RV23BT004_Phylogenetic_Analysis_of_Acidomyces_acidothermus_Isolates.ipynb
+
+Expt 10: https://colab.research.google.com/github/aarushi-das2/bioinformatics-projects/blob/main/1RV23BT004_Cloud_Based_Workflow_for_annotation_of_Genome_of_Saccharomyces_cerevisiae_mitochondrion_COX_OXI3_gene.ipynb
