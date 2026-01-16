@@ -15,6 +15,6 @@ Expt 7: https://colab.research.google.com/github/aarushi-das2/bioinformatics-pro
 
 Expt 8: https://colab.research.google.com/github/aarushi-das2/bioinformatics-projects/blob/main/1RV23BT004_Phylogenetic_Analysis_of_Acidomyces_acidothermus_Isolates.ipynb
 
-Expt 9: https://colab.research.google.com/github/aarushi-das2/bioinformatics-projects/blob/main/1RV23BT004_Functional_annotation_of_protein_sequences.ipynb
+Expt 9: https://colab.research.google.com/github/aarushi-das2/bioinformatics-projects/blob/main/1RV23BT004_Functional_Annotation_and_Visualization_of_COX1_Protein_from_Saccharomyces_cerevisiae.ipynb
 
 Expt 10: https://colab.research.google.com/github/aarushi-das2/bioinformatics-projects/blob/main/1RV23BT004_Cloud_Based_Workflow_for_annotation_of_Genome_of_Saccharomyces_cerevisiae_mitochondrion_COX_OXI3_gene.ipynb
